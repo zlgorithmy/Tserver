@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/RC">
+        <file alias="ICO">images/qt.png</file>
+    </qresource>
+    <qresource prefix="/style"/>
+</RCC>

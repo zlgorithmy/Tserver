@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/ico">
+        <file alias="ico">images/qt_copy.png</file>
+    </qresource>
+    <qresource prefix="/style">
+        <file>blue.qss</file>
+        <file>lightblue.css</file>
+    </qresource>
+</RCC>
